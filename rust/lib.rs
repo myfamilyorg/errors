@@ -14,5 +14,6 @@ errors!(
     OutOfBounds,
     MisalignedPointer,
     IllegalState,
+    Utf8Error,
     Todo
 );
