@@ -1,0 +1,4 @@
+[crate]
+	lib = "errors"
+[deps]
+	error = { git = "https://github.com/myfamilyorg/error" }
