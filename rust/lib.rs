@@ -10,5 +10,6 @@ errors!(
     MisalignedPointer,
     IllegalState,
     Utf8Error,
-    Todo
+    Todo,
+    Unknown
 );
