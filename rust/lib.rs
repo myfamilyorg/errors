@@ -6,7 +6,7 @@ pub mod prelude {
     pub use super::*;
 }
 
-use error::prelude::*;
+pub use error::prelude::*;
 
 errors!(
     Alloc,
